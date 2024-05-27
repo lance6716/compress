@@ -12,7 +12,7 @@ import (
 )
 
 // enable debug printing
-const debug = false
+const debug = true
 
 // enable encoding debug printing
 const debugEncoder = debug
